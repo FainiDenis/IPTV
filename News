@@ -1,0 +1,17 @@
+    #EXTM3U
+    #EXTINF:-1,ABC News
+    http://iptvlive.stream:80/s/23631/c/1681/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU
+    #EXTINF:-1,BBC America HD
+    http://iptvlive.stream:80/s/23631/c/2649/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU.m3u8
+    #EXTINF:-1,BBC News
+    http://iptvlive.stream:80/s/23631/c/516/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU.m3u8
+    #EXTINF:-1,C-Span
+    http://iptvlive.stream:80/s/23631/c/3719/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU.m3u8
+    #EXTINF:-1,CNBC
+    http://iptvlive.stream:80/s/23631/c/3039/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU.m3u8
+    #EXTINF:-1,CNN HD
+    http://iptvlive.stream:80/s/23631/c/2650/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU.m3u8
+    #EXTINF:-1,FOX News HD
+    http://iptvlive.stream:80/s/23631/c/942/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU.m3u8
+    #EXTINF:-1,MSNBC HD
+    http://iptvlive.stream:80/s/23631/c/944/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU.m3u8
