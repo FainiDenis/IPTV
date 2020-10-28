@@ -1,0 +1,37 @@
+    #EXTM3U
+        #EXTINF:-1,BBC One HD
+        http://iptvlive.stream:80/s/25141/c/1661/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU.m3u8
+        #EXTINF:-1,BT Sport 1 HD
+        http://iptvlive.stream:80/s/25141/c/1406/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU.m3u8
+        #EXTINF:-1,BT Sport 2 HD
+        http://iptvlive.stream:80/s/25141/c/1407/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU
+        #EXTINF:-1,BT Sport 3 HD
+        http://iptvlive.stream:80/s/25141/c/1512/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU.m3u8
+        #EXTINF:-1,BT Sport ESPN HD
+        http://iptvlive.stream:80/s/25141/c/2351/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU
+        #EXTINF:-1,Free Sports
+        http://iptvlive.stream:80/s/25141/c/2752/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU
+        #EXTINF:-1,ITV 1 HD
+        http://iptvlive.stream:80/s/25141/c/1422/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU
+        #EXTINF:-1,Premier Sports 1 HD
+        http://iptvlive.stream:80/s/25141/c/2361/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU.m3u8
+        #EXTINF:-1,Premier Sports 2
+        http://iptvlive.stream:80/s/25141/c/2424/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU.m3u8
+        #EXTINF:-1,Sky Sport 1 HD
+        http://iptvlive.stream:80/s/25141/c/331/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU
+        #EXTINF:-1,Sky Sport 2 HD
+        http://iptvlive.stream:80/s/25141/c/868/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU
+        #EXTINF:-1,Sky Sport Bundesliga 1 HD
+        http://iptvlive.stream:80/s/25141/c/327/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU
+        #EXTINF:-1,Sky Sport Bundesliga 2 HD
+        http://iptvlive.stream:80/s/25141/c/634/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU
+        #EXTINF:-1,Sky Sports Football HD
+        http://iptvlive.stream:80/s/25141/c/1526/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU
+        #EXTINF:-1,Sky Sports Main Event HD
+        http://iptvlive.stream:80/s/25141/c/1899/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU
+        #EXTINF:-1,Sky Sports Premier League HD
+        http://iptvlive.stream:80/s/25141/c/1520/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU
+        #EXTINF:-1,BBC Scotland
+        http://iptvlive.stream:80/p/1019592/c/4/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU
+        
+        
