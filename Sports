@@ -63,3 +63,10 @@ http://iptvlive.stream:80/s/23794/c/912/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU
 http://iptvlive.stream:80/s/23794/c/913/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports HD 13" tvg-logo="https://epg.beinsports.com/mena_sports/HD13.svg?2017" group-title="Bein Sports",Bein Sports HD 13
 http://iptvlive.stream:80/s/23794/c/1418/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU
+
+#EXTINF:-1,BT Sport Extra1
+http://iptvlive.stream:80/p/893402/c/101/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU.m3u8
+#EXTINF:-1,BT Sport Extra2
+http://iptvlive.stream:80/p/893402/c/98/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU.m3u8
+#EXTINF:-1,BT Sport Extra
+http://iptvlive.stream:80/p/893402/c/89/u/283719/ANAdDhSkQV74bzn7eBeT41X9LKJ6PU.m3u8
