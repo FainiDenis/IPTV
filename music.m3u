@@ -1,0 +1,5 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Afrobeats" tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="Music",Afrobeats
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V2BEAT" tvg-logo="https://www.jagobd.com/v2beattv" group-title="Music",V2BEAT
+https://de1se01.v2beat.live/playlist.m3u8
