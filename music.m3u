@@ -1,5 +1,43 @@
-#EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Afrobeats" tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="Music",Afrobeats
+#EXTM3U url-tvg="http://m3u4u.com/epg/j67zn64kehq3rqrnd1wq"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Afrobeats" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_koXk6zzltixkR_IMEudYV00hHJ5m6AsqwmO2YrDVEuycU=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Afrobeats
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V2BEAT" tvg-logo="https://www.jagobd.com/v2beattv" group-title="Music",V2BEAT
-https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iTV Afrobeat Music" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/oie_1220416yhbahkx6-5546094713.png" group-title="Music",iTV Afrobeat Music
+https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iTV Latina" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/oie_1220416yhbahkx6-5546094713.png" group-title="Music",iTV Latina
+https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iTV Urban" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/oie_1220416yhbahkx6-5546094713.png" group-title="Music",iTV Urban
+https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Biggest Pop" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2022/09/08/MTV_BiggestPOP_Channel_1080x1080_Square-beg5ce6t.png" group-title="Music",MTV Biggest Pop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png" group-title="Music",MTV Classic
+https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Live" tvg-logo="https://images.seeklogo.com/logo-png/35/1/mtv-live-logo-png_seeklogo-355675.png" group-title="Music",MTV Live
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Brasil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/TRACE-BRAZUCA-logo-rgb.png/revision/latest/scale-to-width-down/1000?cb=20200409195508" group-title="Music",Trace Brasil
+https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Hits" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Trace_Hits.svg/revision/latest?cb=20210810164758" group-title="Music",Trace Hits
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Latina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Trace_Latina.svg/revision/latest?cb=20191223072133" group-title="Music",Trace Latina
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/2560px-Trace_Urban_logo_2010.svg.png" group-title="Music",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo 2K" tvg-logo="https://smotret-tv.ru/wp-content/uploads/2025/01/vevo-2k-png.webp" group-title="Music",Vevo 2K
+https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo 80s" tvg-logo="https://smotret-tv.ru/wp-content/uploads/2025/01/vevo-80s-png.webp" group-title="Music",Vevo 80s
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo 90s" tvg-logo="https://smotret-tv.ru/wp-content/uploads/2025/01/vevo-90s-png.webp" group-title="Music",Vevo 90s
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Country" tvg-logo="https://smotret-tv.ru/wp-content/uploads/2025/01/vevo-country-png.webp" group-title="Music",Vevo Country
+https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo HipHop" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/VVHH/large_dark.png?auto=webp&ver=1" group-title="Music",Vevo HipHop
+https://d3mzlmrngyf08j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-55k4m9whplndi/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Latino" tvg-logo="https://smotret-tv.ru/wp-content/uploads/2025/01/vevo-latino-png.webp" group-title="Music",Vevo Latino
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Pop" tvg-logo="https://smotret-tv.ru/wp-content/uploads/2025/01/vevo-pop-png.webp" group-title="Music",Vevo Pop
+https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo RB" tvg-logo="https://smotret-tv.ru/wp-content/uploads/2025/01/vevo-rb-png.webp" group-title="Music",Vevo RB
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Retro Rock" tvg-logo="https://smotret-tv.ru/wp-content/uploads/2025/01/vevo-retro-rock-png.webp" group-title="Music",Vevo Retro Rock
+https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo True School HipHop" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/featuredImage.jpg" group-title="Music",Vevo True School HipHop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e
